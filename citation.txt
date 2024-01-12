@@ -1,0 +1,9 @@
+@article{REPO116,
+    author = "Fang, Leyuan and Jiang, Yifan and Yan, Yinglong and Yue, Jun and Deng, Yue",
+    journal = "IEEE Transactions on Geoscience and Remote Sensing",
+    number = "",
+    pages = "1-13",
+    title = "{Hyperspectral Image Instance Segmentation Using Spectral¨CSpatial Feature Pyramid Network}",
+    volume = "61",
+    year = "2023"
+}
